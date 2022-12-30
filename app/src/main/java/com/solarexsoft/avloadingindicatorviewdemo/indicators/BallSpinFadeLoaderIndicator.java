@@ -1,9 +1,11 @@
-package com.solarexsoft.avloadingindicatorviewdemo;
+package com.solarexsoft.avloadingindicatorviewdemo.indicators;
 
 import android.animation.ValueAnimator;
 import android.graphics.Canvas;
 import android.graphics.Paint;
 import android.graphics.PointF;
+
+import com.solarexsoft.avloadingindicatorviewdemo.Indicator;
 
 import java.util.ArrayList;
 

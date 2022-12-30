@@ -15,6 +15,8 @@ import android.util.Log;
 import android.view.View;
 import android.view.animation.AnimationUtils;
 
+import com.solarexsoft.avloadingindicatorviewdemo.indicators.BallSpinFadeLoaderIndicator;
+
 
 public class AVLoadingIndicatorView extends View {
 
